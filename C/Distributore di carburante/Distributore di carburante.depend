@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1550746164 source:c:\users\marti\desktop\distributore di carburante\main.c
+	"mio_header.h"
+
+1550743434 c:\users\marti\desktop\distributore di carburante\mio_header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1550749764 source:c:\users\marti\desktop\parthenope\primo anno\1° semestre\programmazione 1\relazione\c\distributore di carburante\main.c
+	"mio_header.h"
+
+1550747034 c:\users\marti\desktop\parthenope\primo anno\1° semestre\programmazione 1\relazione\c\distributore di carburante\mio_header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

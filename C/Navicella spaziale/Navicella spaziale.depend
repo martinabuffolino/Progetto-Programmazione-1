@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1550423279 source:c:\users\marti\desktop\navicella spaziale\visualizzazione_griglia.c
+
+1550709953 source:c:\users\marti\desktop\navicella spaziale\main.c
+	"mio_header.h"
+
+1550747625 source:c:\users\marti\desktop\navicella spaziale\visualizza_griglia.c
+	"mio_header.h"
+
+1550704984 c:\users\marti\desktop\navicella spaziale\mio_header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1550757970 source:c:\users\marti\desktop\navicella spaziale\randomizzazione.c
+	"mio_header.h"
+
+1550713553 source:c:\users\marti\desktop\parthenope\primo anno\1° semestre\programmazione 1\relazione\c\navicella spaziale\main.c
+	"mio_header.h"
+
+1550708584 c:\users\marti\desktop\parthenope\primo anno\1° semestre\programmazione 1\relazione\c\navicella spaziale\mio_header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1550761570 source:c:\users\marti\desktop\parthenope\primo anno\1° semestre\programmazione 1\relazione\c\navicella spaziale\randomizzazione.c
+	"mio_header.h"
+
+1550751225 source:c:\users\marti\desktop\parthenope\primo anno\1° semestre\programmazione 1\relazione\c\navicella spaziale\visualizza_griglia.c
+	"mio_header.h"
+
